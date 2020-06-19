@@ -1,0 +1,71 @@
+
+div{overflow:auto}
+h1{
+    text-align: center;
+}
+
+.box1{
+height:90px;
+width:100px;
+background-color: red;
+float:left;
+}
+.box2{
+    height:90px;
+    width:100px;
+    background-color: blue;
+    float:right;
+    }
+
+.box3{
+    clear: right ;
+        height:90px;
+        width:100%;
+        background-color: yellow;
+        
+        }
+
+        .box1a{
+            height:90px;
+            width:100px;
+            background-color: red;
+            float:right;
+            }
+            .box2a{
+                clear:right;
+                height:90px;
+                width:100px;
+                background-color: blue;
+                float:right;
+                }
+            
+            .box3a{
+                clear: right ;
+                    height:90px;
+                    width:100%;
+                    background-color: yellow;
+                    
+                    }
+
+                    .box1b{
+                        height:90px;
+                        width:100px;
+                        background-color: red;
+                        float:right;
+                        }
+                        .box2b{
+                            clear:right;
+                            height:90px;
+                            width:100px;
+                            background-color: blue;
+                            float:right;
+                            }
+                        
+                        .box3b{
+                            clear: right ;
+                                height:90px;
+                                width:100px;
+                                background-color: yellow;
+                                float:right;
+                                
+                                }                  
